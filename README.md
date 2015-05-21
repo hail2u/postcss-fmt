@@ -7,7 +7,7 @@ Format CSS file.
 SYNOPSIS
 --------
 
-A CSS file may be written with inconsistent format
+A CSS file may be written with inconsistent format:
 
     .foo {
       color: red;
@@ -22,7 +22,7 @@ A CSS file may be written with inconsistent format
         blue
                   	}
 
-This PostCSS plugin format a CSS file with PostCSS internal default format:
+This PostCSS plugin formats a CSS file with PostCSS internal default format:
 
     .foo {
         color: red
