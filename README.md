@@ -38,7 +38,7 @@ This PostCSS plugin formats a CSS file with PostCSS internal default format:
 INSTALL
 -------
 
-    $ npm install postcss-fmt
+    $ npm install hail2u/postcss-fmt
 
 
 USAGE
